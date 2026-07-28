@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VmjUXKJo/AQ=",
+  "dgSpecHash": "ax1rXVejLBs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\neupa\\source\\repos\\Kiibank\\KiiBankLatestProject\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\neupa\\source\\repos\\Kiibank\\DDD\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
