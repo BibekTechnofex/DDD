@@ -1,0 +1,11 @@
+C:\Users\neupa\source\repos\Kiibank\KiiBankLatestProject\Domain\bin\Debug\net9.0\Domain.deps.json
+C:\Users\neupa\source\repos\Kiibank\KiiBankLatestProject\Domain\bin\Debug\net9.0\Domain.dll
+C:\Users\neupa\source\repos\Kiibank\KiiBankLatestProject\Domain\bin\Debug\net9.0\Domain.pdb
+C:\Users\neupa\source\repos\Kiibank\KiiBankLatestProject\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neupa\source\repos\Kiibank\KiiBankLatestProject\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+C:\Users\neupa\source\repos\Kiibank\KiiBankLatestProject\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+C:\Users\neupa\source\repos\Kiibank\KiiBankLatestProject\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\neupa\source\repos\Kiibank\KiiBankLatestProject\Domain\obj\Debug\net9.0\Domain.dll
+C:\Users\neupa\source\repos\Kiibank\KiiBankLatestProject\Domain\obj\Debug\net9.0\refint\Domain.dll
+C:\Users\neupa\source\repos\Kiibank\KiiBankLatestProject\Domain\obj\Debug\net9.0\Domain.pdb
+C:\Users\neupa\source\repos\Kiibank\KiiBankLatestProject\Domain\obj\Debug\net9.0\ref\Domain.dll
